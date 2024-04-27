@@ -4,3 +4,7 @@ member 1 task:
 Customer.xlsx.dvc of first member
 ![Customer.xlsx.dvc of first member](image-1.png)
 Member one push the customer.xlsx
+Second member pushed the changes and first member pulled
+![Second member pushed the changes and first member pulled](image-2.png)
+First member dvc Pulled 
+![Dvc pull ](image-4.png)
