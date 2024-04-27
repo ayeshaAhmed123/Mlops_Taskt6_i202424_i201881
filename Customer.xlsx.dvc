@@ -1,0 +1,5 @@
+outs:
+- md5: 1a2258b5586d5ca1057ad6c978627611
+  size: 8684
+  hash: md5
+  path: Customer.xlsx
