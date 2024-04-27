@@ -1,5 +1,4 @@
 member 1 task:
-![](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Member 1 task](image-3.png)
+![Task Pushed](image.png)
 Member one push the customer.xlsx
